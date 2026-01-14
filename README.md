@@ -104,12 +104,6 @@ Welcome+to+my+GitHub+Profile!" />
 
 ---
 
-## 📌 Pinned Projects (opsional)
-Kalau mau terlihat rapi, pin 4–6 repo terbaik kamu di profil GitHub ✅
-
----
-
-<!-- ====== FOOTER ====== -->
 <!-- ====== FOOTER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
