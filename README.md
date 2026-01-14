@@ -24,8 +24,9 @@
 
 <!-- ====== SOCIAL BADGES (opsional) ====== -->
 <p>
-  <a href="https://wwww.linkedin.com/in/aqilakhansahartanto" target="_blank">
+  <a href="https://www.linkedin.com/in/aqilakhansahartanto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+
   </a>
   <a href="mailto:aqilakhansa004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red" />
@@ -34,20 +35,21 @@
 
 ---
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,github,vscode,mysql,tensorflow" />
-</p>
+## 💻 Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
+
 ## 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=aqilakhansa&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=aqilakhansa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=aqilakhansa&theme=date_night&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=aqilakhansa&theme=vue-dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilakhansa&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilakhansa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
