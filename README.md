@@ -4,22 +4,11 @@
   <img src="banner.png" alt="Banner Aqila Khansa" width="900" />
 </p>
 
-
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Playfair+Display
-&size=24
-&pause=900
-&color=8B6B5E
-&center=true
-&vCenter=true
-&width=750
-&lines=Hi+Nice+to+Meet+You!+I'm+Aqila+Khansa+Hartanto+👋;
-Data+Scientist+Intern+at+Idx%2FPartners+%26+Mandiri+Taspen;
-Currently+learning+Machine+Learning;
-Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=900&color=8B6B5E&center=true&vCenter=true&width=750&lines=Hi+Nice+to+Meet+You!+I'm+Aqila+Khansa+Hartanto+%F0%9F%91%8B;Data+Scientist+Intern+at+Idx%2FPartners+%26+Mandiri+Taspen;Currently+learning+Machine+Learning;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
 
 <!-- ====== PROFILE VIEW COUNTER (opsional) ====== -->
 <p align="center">
